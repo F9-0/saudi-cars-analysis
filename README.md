@@ -45,7 +45,7 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/F9-0/saudi-cars-analysis.git](https://github.com/F9-0/saudi-cars-analysis.git)
+    git clone https://github.com/F9-0/saudi-cars-analysis.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
